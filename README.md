@@ -18,4 +18,4 @@ A tarefa exige o cálculo do percentual de faturamento que cada estado teve dent
 Esta tarefa realiza o mesmo objetivo da quarta, mas com a diferença de que o usuário pode informar a string dinamicamente. Para isso, usamos o módulo `readline` do Node.js, que permite ler a entrada do usuário de maneira interativa no terminal.
 
 ### Motivo de usar o `readline`:
-O **`readline`** é um módulo do Node.js que permite ler entradas do usuário via terminal de forma assíncrona, ou seja, sem bloquear a execução do programa. Ele é útil em programas de linha de comando onde você precisa capturar dados fornecidos pelo usuário e usá-los para realizar cálculos ou outras operações. Com ele, o fluxo de execução do programa continua enquanto o usuário fornece as entradas, tornando o código mais dinâmico e interativo.
+O **`readline`** é um módulo do Node.js que permite ler entradas do usuário via terminal de forma assíncrona, ou seja, sem bloquear a execução do programa.
